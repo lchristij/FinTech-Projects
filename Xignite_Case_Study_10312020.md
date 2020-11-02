@@ -1,5 +1,6 @@
 # FinTech-Projects
-## I'm a Fintech Student
+## FinTech Rules!
+### I'm a Fintech Student
 My Name is Levi and my background is technology, my goal is to obtain a better <sup>1</sup> understanding of FinTech because it is a industry with high demand
 
 ![](https://github.com/lchristij/FinTech-Projects/blob/main/images/fintech.jpg)
