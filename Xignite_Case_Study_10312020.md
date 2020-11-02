@@ -3,7 +3,7 @@
 ### I'm a Fintech Student
 
 # The Xignite Enterprise Solution Case Study
-FinTech. A word that has been weaving its way into the fabric of economies around the world for almost fifty years, but what is it exactly? Why is it so important now? Where did it originate from? Why do we need it? And what impact is it having on the economy? According to the New York Times, the term FinTech is said to have been around since 1971 however, it was coined at the Financial Services Technology Consortium established by Citicorp in 1993 and refers to the development of online digital technologies in the financial services industry<span style="color:blue"><sup>1</sup></span>.  For several years, the industry has been ripe for entrepreneurs seeking new ways to reduce operational cost, increase efficiency and stimulate economic growth, all of which has led to disruptive innovation across all sectors of the industry. The rapid, pervasive pace of innovation has paved the way for services such as mobile banking which allows consumers to deposit checks, transfer funds, issue payments and make withdraws without ever making a trip to the bank. Purchasing real estate and other financial assets like stocks, options, bonds and even digital currencies with the assistance of robo advisors and algorithms can now be done from the palm of your hand.  In this case study I will focus on the competitive landscape of enterprise solutions for wealth and investment management services and a company front and center of the next FinTech revolution wave in market data enterprise solutions.
+FinTech. A word that has been weaving its way into the fabric of economies around the world for almost fifty years, but what is it exactly? Why is it so important now? Where did it originate from? Why do we need it? And what impact is it having on the economy? According to the New York Times, the term FinTech is said to have been around since 1971 however, it was coined at the Financial Services Technology Consortium established by Citicorp in 1993 and refers to the development of online digital technologies in the financial services industry<sup>1</sup>.  For several years, the industry has been ripe for entrepreneurs seeking new ways to reduce operational cost, increase efficiency and stimulate economic growth, all of which has led to disruptive innovation across all sectors of the industry. The rapid, pervasive pace of innovation has paved the way for services such as mobile banking which allows consumers to deposit checks, transfer funds, issue payments and make withdraws without ever making a trip to the bank. Purchasing real estate and other financial assets like stocks, options, bonds and even digital currencies with the assistance of robo advisors and algorithms can now be done from the palm of your hand.  In this case study I will focus on the competitive landscape of enterprise solutions for wealth and investment management services and a company front and center of the next FinTech revolution wave in market data enterprise solutions.
 
 To remain competitive, corporations centered around wealth and investment management services must have reliable access to high quality, real-time, delayed and historical market data.  Xignite is one such global provider of centralized, highly scalable, cloud-based APIs offering access to a breadth of in-depth Level II market data, utilized for building rich B2C services as well as research and analysis. According to the company’s website, Xignite was founded in 2000 by  Stephane Dubois, its original intent was to offer a wealth management platform however, when Stephane discovered that procuring the market data needed to power his platform from large legacy vendors restricting access, would be too arduous a task, he decided to pivot and partner with innovators in the industry such as EURONEXT, Chicago Board Options Exchange (CBOE), Chicago Mercantile Exchange (CME) and CoppClark to name a few, and created his own market data APIs.  The idea soon caught the attention of other firms facing similar market data delivery and integration challenges thus leading Stephane to create Xignite. As the company acquired more clients and added new capabilities to their product line, investors also began taking notice of Xignite’s growth and as a result the company has attracted more than $35M in investment capital, according to researchers crunchbase and owler.com. Xignite positioned itself as a leading provider of low-cost, high-quality market data by utilizing advanced programing languages such as VB .NET, ASP .NET, C#, JAVA, Perl, PHP, Ruby and recently Python, to offer datasets in multiple flavors (i.e., Excel, CSV, etc.) across cloud-based REST APIs in Amazon’s AWS environment, giving the company a unique competitive advantage.  By its own admission, the company’s solution addresses the age-old problem of managing multiple sources of fragmented, monolithic data from legacy systems. Xignite excels at this so well that other FinTech companies such as Betterment, SoFi, Etoro and BlackRock trust them to provide some of their most mission critical market data. Xignite reports that it has over 800 clients in their circle of trust and thus plenty of room to grow in the $32B market data solutions business as reported by Business Insider and Traders Magazine. Therefore, as more companies seek to lower their data acquisition cost, reduce operational risk and centralize data flows across a common architecture, Xignite stands a good chance of capturing additional market share.
 
@@ -20,36 +20,34 @@ While Xignite is quickly establishing itself as the premiere enterprise market d
  
 ## Works Cited:
 	Sources:
-1.	https://www.merriam-webster.com/dictionary/fintech 
-2.	https://www.nytimes.com/2016/04/07/business/dealbook/the-evolution-of-fintech.html 
-3.	https://www.xignite.com  
-4.	https://www.owler.com/company/xignite  
-5.	https://www.crunchbase.com/organization/xignite 
-6.	https://market-data.xignite.com/free-trial-lp.html?utm_source=google&utm_medium=cpc&utm_campaign=na_search_brand&utm_adgroup=xignite.com&utm_term=xignite%20com&utm_h1=Market%20Data%20API%20Trial&sfdc_campaign=ad_pro_frtr_t&gclid=CjwKCAjw0On8BRAgEiwAincsHAFhA30SHf9cqpUjI-Mkm4jYUf-M9-GerQwDpHaec6lHGvkcfHFiqhoC3q8QAvD_BwE 
-7.	https://www.xignite.com/blog/xignite-adds-python-programming-language-to-apis/ 
-8.	https://www.tradersmagazine.com/am/global-spend-on-market-data-totals-record-32b-in-2019/ 
-9.	https://datarade.ai/top-lists/top-10-stock-market-data-providers-apis 
-10.	https://markets.businessinsider.com/news/stocks/global-spend-on-financial-market-data-totals-a-record-32-0-billion-in-2019-rising-5-6-on-demand-for-pricing-reference-and-portfolio-management-data-new-burton-taylor-report-1029094073# 
-11.	https://www.marketdata.guru/global-vendor-listings/ 
-12.	https://intrinio.com/ 
-13.	https://intrinio.com/blog/quotes-api-story-stock-prices-intrinio 
-14.	https://www.owler.com/company/intrinio 
-15.	https://www.zoominfo.com/c/barchartcom-inc/3965598 
-16.	https://www.barchart.com/solutions/company/about 
-17.	https://www.barchart.com/solutions/data/market 
-18.	https://www.barchart.com/solutions/services/digital/charting
-19.	https://www.owler.com/company/barchart 
-20.	https://www.exantedata.com/our-services/global-flow-analytics/?signup=true 
-21.	https://www.activfinancial.com/about-us.html#:~:text=With%20coverage%20spanning%20more%20than,%2C%20Tokyo%2C%20Singapore%20and%20London.
-22.	https://www.activfinancial.com/images/uploads/ActivFeedStatus_2020-08-21.pdf
-23.	https://www.activfinancial.com/press/news/activ-adds-eu-alternative-venues-to-activfeed.html
-24.	https://www.activfinancial.com/about-us.html
-25.	https://www.zoominfo.com/c/activ-financial-systems-inc/1084675
-26.	https://www.bloomberg.com/news/features/2016-09-15/wall-street-s-0-01-the-guru-who-only-talks-to-hedge-fund-elite
-27.	https://www.xignite.com/market-data-management
-28.	https://zephyrnet.com/xignite-secures-patent-for-market-data-driven-alerts-exate-earns-accelerator-spot/
-29.	https://www.xignite.com/news/xignite-named-to-wealthtech-100-list-for-second-year-in-a-row/
-
+1.	https://www.nytimes.com/2016/04/07/business/dealbook/the-evolution-of-fintech.html 
+2.	https://www.xignite.com  
+3.	https://www.owler.com/company/xignite  
+4.	https://www.crunchbase.com/organization/xignite 
+5.	https://market-data.xignite.com/free-trial-lp.html?utm_source=google&utm_medium=cpc&utm_campaign=na_search_brand&utm_adgroup=xignite.com&utm_term=xignite%20com&utm_h1=Market%20Data%20API%20Trial&sfdc_campaign=ad_pro_frtr_t&gclid=CjwKCAjw0On8BRAgEiwAincsHAFhA30SHf9cqpUjI-Mkm4jYUf-M9-GerQwDpHaec6lHGvkcfHFiqhoC3q8QAvD_BwE 
+6.	https://www.xignite.com/blog/xignite-adds-python-programming-language-to-apis/ 
+7.	https://www.tradersmagazine.com/am/global-spend-on-market-data-totals-record-32b-in-2019/ 
+8.	https://datarade.ai/top-lists/top-10-stock-market-data-providers-apis 
+9.	https://markets.businessinsider.com/news/stocks/global-spend-on-financial-market-data-totals-a-record-32-0-billion-in-2019-rising-5-6-on-demand-for-pricing-reference-and-portfolio-management-data-new-burton-taylor-report-1029094073# 
+10.	https://www.marketdata.guru/global-vendor-listings/ 
+11.	https://intrinio.com/ 
+12.	https://intrinio.com/blog/quotes-api-story-stock-prices-intrinio 
+13.	https://www.owler.com/company/intrinio 
+14.	https://www.zoominfo.com/c/barchartcom-inc/3965598 
+15.	https://www.barchart.com/solutions/company/about 
+16.	https://www.barchart.com/solutions/data/market 
+17.	https://www.barchart.com/solutions/services/digital/charting
+18.	https://www.owler.com/company/barchart 
+19.	https://www.exantedata.com/our-services/global-flow-analytics/?signup=true 
+20.	https://www.activfinancial.com/about-us.html#:~:text=With%20coverage%20spanning%20more%20than,%2C%20Tokyo%2C%20Singapore%20and%20London.
+21.	https://www.activfinancial.com/images/uploads/ActivFeedStatus_2020-08-21.pdf
+22.	https://www.activfinancial.com/press/news/activ-adds-eu-alternative-venues-to-activfeed.html
+23.	https://www.activfinancial.com/about-us.html
+24.	https://www.zoominfo.com/c/activ-financial-systems-inc/1084675
+25.	https://www.bloomberg.com/news/features/2016-09-15/wall-street-s-0-01-the-guru-who-only-talks-to-hedge-fund-elite
+26.	https://www.xignite.com/market-data-management
+27.	https://zephyrnet.com/xignite-secures-patent-for-market-data-driven-alerts-exate-earns-accelerator-spot/
+28.	https://www.xignite.com/news/xignite-named-to-wealthtech-100-list-for-second-year-in-a-row/
 
 
 My Name is Levi and my background is technology, my goal is to obtain a better <sup>1</sup> understanding of FinTech because it is a industry with high demand
