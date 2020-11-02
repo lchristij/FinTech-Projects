@@ -6,6 +6,6 @@ My Name is Levi and my background is technology, my goal is to obtain a better u
 
 [exante data vid](https://m.exantedata.com/2019/09/12144835/Jens_RealVision_Intro.mp4)
 
-![](https://images.app.goo.gl/vU54CvMiS3uxVw777)
+![](https://github.com/lchristij/FinTech-Projects/blob/main/images/MDmicroservices.png)
 
 <h2>This is the future of money</h2>
