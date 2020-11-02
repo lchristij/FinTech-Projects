@@ -4,4 +4,6 @@ My Name is Levi and my background is technology, my goal is to obtain a better u
 
 ![](https://github.com/lchristij/FinTech-Projects/blob/main/images/fintech.jpg)
 
+[exante data vid](https://m.exantedata.com/2019/09/12144835/Jens_RealVision_Intro.mp4)
+
 <h2>This is the future of money</h2>
